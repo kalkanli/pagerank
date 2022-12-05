@@ -1,0 +1,6 @@
+OPENMP-SRC
+.vscode
+graph.txt
+src/*.out
+input
+.DS_Store
